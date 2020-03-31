@@ -8,6 +8,8 @@
   * Kota Bandung : [disini](https://covid19.bandung.go.id/)
   * Kabupaten Bandung : [disini](https://covid19.bandungkab.go.id/)
   * Kabupaten Bekasi : [disini](https://pikokabsi.bekasikab.go.id/)
+  * Kabupaten Bogor : [disini](https://covid-19.bogorkab.go.id/)
+
   
 * Provinsi Banten : [disini](https://infocorona.bantenprov.go.id/)
   * Kota Serang : [disini](https://infocorona.serangkota.go.id/)
