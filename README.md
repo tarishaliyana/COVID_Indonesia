@@ -47,6 +47,9 @@
 * Provinsi Jawa Timur
   * Kota Surabaya
 
+## PULAU BALI
+* Provinsi Bali
+  * Kota Denpasar
 * Provinsi Nusa Tenggara Barat
 
 ## PULAU SUMATERA ##
@@ -73,23 +76,42 @@
 
 ## PULAU SULAWESI ##
 * Provinsi Sulawesi Selatan
-  *
+  * Kota Makassar
 * Provinsi Sulawesi Barat
+  * Kota Mamuju
 * Provinsi Sulawesi Tengah
+  * Kota Palu
 * Provinsi Sulawesi Tenggara
+  * Kota Kendari
 * Provinsi Sulawesi Utara
+  * Kota Manado
 * Provinsi Gorontalo
+  * Kota Gorontalo
 
 ## PULAU KALIMANTAN ##
-* Provinsi Kalimantan Timur  
+* Provinsi Kalimantan Timur
+  * Kota Samarinda
 * Provinsi Kalimantan Barat
+  * Kota Pontianak
 * Provinsi Kalimantan Tengah
+  * Kota Palu
 * Provinsi Kalimantan Selatan
+  * Kota Banjarmasin
 * Provinsi Kalimantan Utara
+  * Kota Tanjung Selor
 
 ## PULAU MALUKU
 * Provinsi Maluku
+  * Kota Ambon
 * Provinsi Maluku Utara
+  * Kota Sofifi
 
 ## PULAU PAPUA
+* Provinsi Papua  
+  * Kota Jayapura
 * Provinsi Papua Barat
+  * Kota Manokwari
+
+
+#KONTRIBUTOR
+* Masukkan Nama Kontributor Disini dengan format (nama_lengkap)[LinkedIn_Page]
