@@ -114,4 +114,4 @@
 
 
 #KONTRIBUTOR
-* Masukkan Nama Kontributor Disini dengan format (nama_lengkap)[LinkedIn_Page]
+* Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
