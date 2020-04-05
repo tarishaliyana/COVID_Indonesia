@@ -115,3 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+Tarisha_Fitriya.(https://www.linkedin.com/in/tarisha-fitriya-040826193)
